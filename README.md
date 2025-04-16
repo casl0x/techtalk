@@ -10,7 +10,7 @@ Ce repo me permet de :
 ## 📁 Structure du repo : 
 techtalks/
 ├── nom-du-sujet/
-│   ├── slides.pdf
-│   ├── contenu.md
-│   └── demo-code/ (optionnel)
+    ├── slides.pdf
+    ├── contenu.md
+    └── demo-code/ (optionnel)
 
